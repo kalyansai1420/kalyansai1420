@@ -20,31 +20,19 @@
 
 <br>
 
-<h3 align="center"> ❤️ Support me</h3>
-<p align="center">
-    <a href="https://nowpayments.io/donation?api_key=YOUR_API_KEY" target="_blank">
-     <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" width="150px" alt="Crypto donation button by NOWPayments">
-    </a>
-</p>
-<p align="center">
-  <a href="https://ko-fi.com/kalyanmaram"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://buymeacoffee.com/kalyanmaram"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://paypal.me/kalyanmaram"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
-<br>
 
 <h3 align="center">📫 Reach out to me on</h3>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/kalyanmaram"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/kalyanmaram"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/saikalyanmaram"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/kalyanmaram/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:saikalyan.maram@unh.edu?subject=Hello%20Sai%2C%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 👨‍💻 Tools & Platforms
 <p align="center"> 
 
-  ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java)
+  ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java)
   ![Spring Boot](https://img.shields.io/badge/spring%20boot-000?style=for-the-badge&logo=spring)
   ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
   ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
