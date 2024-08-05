@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=700&duration=1500&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Kalyan+Maram;I'm+a+Software+Engineer+%F0%9F%92%BB;%F0%9F%92%BB+AI+and+Machine+Learning+Enthusiast;%F0%9F%92%BB+Full+Stack+Developer+%F0%9F%92%BB;Nice+to+meet+you+%F0%9F%98%8A%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=kalyanmaram&label=Profile%20views&color=5689f5&style=for-the-badge" alt="kalyanmaram" /> 
+<img src="https://komarev.com/ghpvc/?username=kalyansai1420&label=Profile%20views&color=5689f5&style=for-the-badge" alt="kalyanmaram" /> 
 
 </div>
 
@@ -46,14 +46,14 @@
 
 ## 📈 Stats
 <p align="center">
-  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalyanmaram&theme=tokyonight" />
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalyansai1420&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalyanmaram&theme=tokyonight" />
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalyansai1420&theme=tokyonight" />
 </p>
 
 <div align="center">
 
-   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalyanmaram&theme=tokyonight" />
+   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalyansai1420&theme=tokyonight" />
 
 </br>
 </br>
@@ -62,5 +62,5 @@
 
 </div>
 
-<!-- [![Sai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kalyanmaram&hide_border=true&theme=tokyo-night)](https://github.com/kalyanmaram) -->
+<!-- [![Sai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kalyansai1420&hide_border=true&theme=tokyo-night)](https://github.com/kalyansai1420) -->
 
