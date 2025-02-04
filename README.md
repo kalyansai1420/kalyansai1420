@@ -10,13 +10,12 @@
 
 </div>
 
-- 🔭 I’m currently doing research on **LLM-OS**
 
 - 🌱 I’m currently learning **Go**
 
 - 👨‍💻 Check out my Portfolio at [Website](https://saikalyanmaram.me)
 
-- 💬 Ask me about **Java, Microservices, React, Machine Learning**
+- 💬 Ask me about **Java, Go, Microservices, React, Machine Learning**
 
 <br>
 
